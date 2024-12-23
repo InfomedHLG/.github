@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/192282857?s=200&v=4" alt="Infomed Holguín Logo" width="300"/>
+<div align="left">
+  <img src="https://avatars.githubusercontent.com/u/192282857?s=200&v=4" alt="Infomed Holguín Logo" width="150"/>
   
   # Infomed Holguín
   
@@ -23,7 +23,7 @@ Un sistema integral para la gestión y control de cuotas de navegación web, dis
 - 🚀 **Monitoreo en tiempo real del consumo de datos.**
 - 💻 **Interfaz administrativa en Django.**
 - 👥 **Portal de usuario en PHP para consulta de cuotas.**
-- 📊 **Reportes detallados de consumo.**
+- �� **Reportes detallados de consumo.**
 - ⏰ **Reseteo automático de cuotas (diario/semanal/mensual/anual).**
 - 🔄 **Integración directa con Squid Proxy.**
 - 📱 **Interfaces web responsive.**
