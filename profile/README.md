@@ -1,38 +1,61 @@
 <div align="center">
-  <img src="[URL-del-logo]" alt="Testing-Sofnet Logo" width="300"/>
+  <img src="https://avatars.githubusercontent.com/u/192282857?s=200&v=4" alt="Infomed Holguín Logo" width="300"/>
   
   # Infomed Holguín
   
   *Soluciones innovadoras para infraestructura y seguridad digital*
 
-  [![GitHub Org's stars](https://img.shields.io/github/stars/Testing-Sofnet?style=social)](https://github.com/Testing-Sofnet)
+  [![GitHub Org's stars](https://img.shields.io/github/stars/InfomedHLG?style=social)](https://github.com/InfomedHLG)
   [![Discord](https://img.shields.io/badge/Discord-Únete_a_la_comunidad-7289DA?style=flat&logo=discord)](https://discord.gg/tucomunidad)
 </div>
 
 ## 🚀 Sobre Nosotros
 
-Testing-Sofnet es una comunidad dedicada al desarrollo de soluciones de software enfocadas en seguridad digital e infraestructura. Nos especializamos en crear herramientas que facilitan la gestión y monitoreo de sistemas.
+Infomed Holguín es una comunidad dedicada al desarrollo de soluciones de software enfocadas en seguridad digital e infraestructura. Nos especializamos en crear herramientas que facilitan la gestión y monitoreo de sistemas.
 
 ## 📌 Proyectos Principales
 
-### Sistema_Cuotas_Usuarios
+### Sistema Cuotas Usuarios
 [![GitHub stars](https://img.shields.io/github/stars/InfomedHLG/Sistema_Cuotas_Usuarios?style=social)](https://github.com/InfomedHLG/Sistema_Cuotas_Usuarios)
 
-Sistema de monitoreo y gestión de infraestructura. Diseñado para proporcionar:
-- 🔍 Monitoreo en tiempo real
-- 📊 Análisis de rendimiento
-- 🔔 Alertas personalizables
-- 📈 Reportes detallados
+Un sistema integral para la gestión y control de cuotas de navegación web, diseñado específicamente para Squid Proxy. Este sistema de cuotas está diseñado para el control del consumo de datos por usuario, con reseteo automático configurable. El sistema incluye un login para que los usuarios puedan autenticarse, ver su cuota y consumo, y acceder a detalles diarios, semanales y anuales.
 
-### Sistema_Cuotas_Institucional
+- 🚀 **Monitoreo en tiempo real del consumo de datos.**
+- 💻 **Interfaz administrativa en Django.**
+- 👥 **Portal de usuario en PHP para consulta de cuotas.**
+- 📊 **Reportes detallados de consumo.**
+- ⏰ **Reseteo automático de cuotas (diario/semanal/mensual/anual).**
+- 🔄 **Integración directa con Squid Proxy.**
+- 📱 **Interfaces web responsive.**
+
+### Sistema Cuotas Institucional
 [![GitHub stars](https://img.shields.io/github/stars/InfomedHLG/Sistema_Cuotas_Institucional?style=social)](https://github.com/InfomedHLG/Sistema_Cuotas_Institucional)
 
-Herramienta automatizada para la gestión de certificados SSL/TLS:
-- 🔒 Automatización de renovación de certificados
-- 📥 Descarga segura de certificados
-- ⚡ Implementación simplificada
-- 🛡️ Gestión de seguridad mejorada
+Un sistema integral para la gestión y control de cuotas de navegación web, diseñado específicamente para Squid Proxy. Administra el consumo de datos por usuario/IP con reseteo automático configurable.
 
-## 💡 Contribuye
+- 🚀 **Monitoreo en tiempo real del consumo de datos.**
+- 💻 **Interfaz administrativa en Django.**
+- 👥 **Portal de usuario en PHP para consulta de cuotas.**
+- 📊 **Reportes detallados de consumo.**
+- ⏰ **Reseteo automático de cuotas (diario/semanal/mensual/anual).**
+- 🔄 **Integración directa con Squid Proxy.**
+- 📱 **Interfaces web responsive.**
 
-Valoramos y fomentamos la colaboración de la comunidad. Puedes contribuir:
+### Proxy Pasarela Telegram
+[![GitHub stars](https://img.shields.io/github/stars/InfomedHLG/Proxy_Pasarela_Telegram?style=social)](https://github.com/InfomedHLG/Proxy_Pasarela_Telegram)
+
+Una solución empresarial para la gestión centralizada de comunicaciones vía Telegram
+
+- 🔒 **Control de Acceso Centralizado**
+- 📂 **Gestión de Mensajes y Archivos**
+- 📈 **Logs y Monitoreo**
+- ⚙️ **Alta Disponibilidad**
+
+## 🤝 Contribuciones
+
+¡Contribuciones son bienvenidas! Por favor, revisa nuestras [guías de contribución](#) para más detalles.
+
+## 📄 Licencia
+
+Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](#) para más detalles.
+
