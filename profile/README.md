@@ -1,12 +1,3 @@
-<div align="left">
-  <!-- Logo y nombre eliminados -->
-
-  *Soluciones innovadoras para infraestructura y seguridad digital*
-
-  [![GitHub Org's stars](https://img.shields.io/github/stars/InfomedHLG?style=social)](https://github.com/InfomedHLG)
-
-</div>
-
 ## 🚀 Sobre Nosotros
 
 Infomed Holguín es una comunidad dedicada al desarrollo de soluciones de software enfocadas en seguridad digital e infraestructura. Nos especializamos en crear herramientas que facilitan la gestión y monitoreo de sistemas.
