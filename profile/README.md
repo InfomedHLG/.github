@@ -6,7 +6,7 @@
   *Soluciones innovadoras para infraestructura y seguridad digital*
 
   [![GitHub Org's stars](https://img.shields.io/github/stars/InfomedHLG?style=social)](https://github.com/InfomedHLG)
-  [![Discord](https://img.shields.io/badge/Discord-Únete_a_la_comunidad-7289DA?style=flat&logo=discord)](https://discord.gg/tucomunidad)
+
 </div>
 
 ## 🚀 Sobre Nosotros
