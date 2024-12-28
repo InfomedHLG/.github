@@ -40,6 +40,17 @@ Una solución empresarial para la gestión centralizada de comunicaciones vía T
 - 📈 **Logs y Monitoreo**
 - ⚙️ **Alta Disponibilidad**
 
+
+### Download Certificados Letsencrypt infomed
+[![GitHub stars](https://img.shields.io/github/stars/InfomedHLG/Download_Certificados_Letsencrypt_infomed?style=social)](https://github.com/InfomedHLG/Download_Certificados_Letsencrypt_infomed)
+
+Una solución empresarial para la gestión centralizada de comunicaciones vía Telegram
+
+- 🔄 **Gestión de Certificados:** Descarga y actualización automática.
+- 📦 **Control de Versiones:** Integración con GitHub y versionado inteligente.
+- 📬 **Notificaciones:** Alertas por 📧 Email y 📱 Telegram.
+
+
 ## 🤝 Contribuciones
 
 ¡Contribuciones son bienvenidas! Por favor, revisa nuestras [guías de contribución](#) para más detalles.
