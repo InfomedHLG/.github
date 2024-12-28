@@ -2,6 +2,8 @@
 
 Infomed Holguín es una comunidad dedicada al desarrollo de soluciones de software enfocadas en seguridad digital e infraestructura. Nos especializamos en crear herramientas que facilitan la gestión y monitoreo de sistemas.
 
+---
+
 ## 📌 Proyectos Principales
 
 ### Sistema Cuotas Usuarios
@@ -17,6 +19,8 @@ Un sistema integral para la gestión y control de cuotas de navegación web, dis
 - 🔄 **Integración directa con Squid Proxy.**
 - 📱 **Interfaces web responsive.**
 
+---
+
 ### Sistema Cuotas Institucional
 [![GitHub stars](https://img.shields.io/github/stars/InfomedHLG/Sistema_Cuotas_Institucional?style=social)](https://github.com/InfomedHLG/Sistema_Cuotas_Institucional)
 
@@ -30,6 +34,8 @@ Un sistema integral para la gestión y control de cuotas de navegación web, dis
 - 🔄 **Integración directa con Squid Proxy.**
 - 📱 **Interfaces web responsive.**
 
+---
+
 ### Proxy Pasarela Telegram
 [![GitHub stars](https://img.shields.io/github/stars/InfomedHLG/Proxy_Pasarela_Telegram?style=social)](https://github.com/InfomedHLG/Proxy_Pasarela_Telegram)
 
@@ -40,6 +46,7 @@ Una solución empresarial para la gestión centralizada de comunicaciones vía T
 - 📈 **Logs y Monitoreo**
 - ⚙️ **Alta Disponibilidad**
 
+---
 
 ### Download Certificados Letsencrypt infomed
 [![GitHub stars](https://img.shields.io/github/stars/InfomedHLG/Download_Certificados_Letsencrypt_infomed?style=social)](https://github.com/InfomedHLG/Download_Certificados_Letsencrypt_infomed)
@@ -50,7 +57,7 @@ Una solución empresarial para la gestión centralizada de comunicaciones vía T
 - 📦 **Control de Versiones:** Integración con GitHub y versionado inteligente.
 - 📬 **Notificaciones:** Alertas por 📧 Email y 📱 Telegram.
 
-
+---
 
 ## 📄 Licencia
 
