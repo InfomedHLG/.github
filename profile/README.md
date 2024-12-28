@@ -51,9 +51,6 @@ Una solución empresarial para la gestión centralizada de comunicaciones vía T
 - 📬 **Notificaciones:** Alertas por 📧 Email y 📱 Telegram.
 
 
-## 🤝 Contribuciones
-
-¡Contribuciones son bienvenidas! Por favor, revisa nuestras [guías de contribución](#) para más detalles.
 
 ## 📄 Licencia
 
