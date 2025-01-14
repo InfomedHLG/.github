@@ -1,6 +1,6 @@
 ## 🚀 Sobre Nosotros
 
-Infomed Holguín es una comunidad dedicada al desarrollo de soluciones de software enfocadas en seguridad digital e infraestructura. Nos especializamos en crear herramientas que facilitan la gestión y monitoreo de sistemas.
+Infomed Holguín.
 
 ---
 
